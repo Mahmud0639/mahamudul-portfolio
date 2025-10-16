@@ -30,12 +30,12 @@ A full-featured, mobile-first food delivery app built with Flutter. Includes dyn
 
 #### 🚀 Key Features
 
-- 🏠 **Dynamic Home Screen** with sliders & categories  
-- 📄 **Product Details** for popular & recommended items  
-- 🛒 **Shopping Cart** with quantity control & state persistence  
-- 🔁 **Routing & Navigation** using GetX  
-- 🌐 **REST API Integration** with JSON parsing  
-- 🧩 **MVC-style** scalable architecture  
+-  **Dynamic Home Screen** with sliders & categories  
+-  **Product Details** for popular & recommended items  
+-  **Shopping Cart** with quantity control & state persistence  
+-  **Routing & Navigation** using GetX  
+-  **REST API Integration** with JSON parsing  
+-  **MVC-style** scalable architecture  
 
 ---
 
@@ -141,26 +141,39 @@ This is a **frontend-only** prototype — no backend integration or real data fe
 
 ---
 
-### 🌐 3. PHP REST API for Mobile Apps
-**Backend project for Android & Flutter clients**
+# 🌐 PHP REST API for Mobile Apps  
+**Backend Project for Android & Flutter Clients**
 
-#### 🧾 Description
-Developed clean RESTful API endpoints using raw PHP and MySQL for mobile app integration. Includes CRUD, login/signup authentication, and JSON structured response.
+---
 
-#### ⚙️ Tech Stack
+## 🧾 Description  
+This project is a lightweight **RESTful API** built using **raw PHP** and **MySQL**, designed specifically for integration with Android and Flutter mobile apps. It provides full **CRUD operations**, and **file upload** support. All responses are returned in a structured **JSON format** to ensure easy parsing and integration on the client side.
+
+---
+
+## ⚙️ Tech Stack  
 - **Language:** PHP  
 - **Database:** MySQL  
-- **Format:** JSON API  
+- **API Format:** JSON  
+- **Features:**  
+  - Create, Read, Update, Delete (CRUD)  
+  - File Upload Support  
 
-#### 🔗 Source Code  
+---
+
+## 🔗 Source Code  
 🔹 [GitHub Repository](https://github.com/yourusername/student-api)
 
 ---
 
-## 📸 Gallery of My Work
+## 📸 Gallery of My Work  
 <p align="center">
-  <img src="https://github.com/yourusername/student-app/blob/main/images/overview.png" width="350" />
-  <img src="https://github.com/yourusername/taskmanager/blob/main/images/overview.png" width="350" />
+  <img src="https://github.com/Mahmud0639/php-mysql-university-management-api/blob/main/screenshots/get_request.png" width="350" />
+  <img src="https://github.com/Mahmud0639/php-mysql-university-management-api/blob/main/screenshots/post_insert_data.png" width="350" />
+  <img src="https://github.com/Mahmud0639/php-mysql-university-management-api/blob/main/screenshots/post_file_upload.png" width="350" />
+  <img src="https://github.com/Mahmud0639/php-mysql-university-management-api/blob/main/screenshots/put_request.png" width="350" />
+  <img src="https://github.com/Mahmud0639/php-mysql-university-management-api/blob/main/screenshots/delete_request.png" width="350" />
+  <img src="https://github.com/Mahmud0639/php-mysql-university-management-api/blob/main/screenshots/db_university_management.jpeg" width="350" />
 </p>
 
 ---
