@@ -36,6 +36,8 @@ Built with HTML, CSS, Bootstrap, JavaScript, and jQuery for the frontend — sea
   <img src="https://github.com/Mahmud0639/FCM-push-notification-admin-panel/blob/master/screenshots/admin_panel_02.jpeg?raw=true" width="495"/>
 </p>
 
+#### 🎥 Demo Video  
+👉 [Watch on YouTube](https://youtu.be/ndjdrAvZSHk)
 
 ## 🧾 Description
 
@@ -45,7 +47,6 @@ This project is a **web-powered FCM (Firebase Cloud Messaging) push notification
 - Broadcast messages to **subscribed topics**
 - Use a clean and responsive **admin panel** to manage and send notifications
 
-No mobile client included — this focuses on the **admin + FCM integration side**.
 
 ---
 
@@ -72,14 +73,8 @@ No mobile client included — this focuses on the **admin + FCM integration side
 
 ---
 
-## ✨ Highlights
 
-- Built an interactive web UI using **Bootstrap & jQuery**
-- Integrated **Firebase Admin SDK** for push handling
-- Supported both **token** and **topic** modes of FCM
-- Applied form validation and real-time user feedback
-- Ensured responsive UI for mobile & desktop browsers
-
+🔗 [View Source Code](https://github.com/Mahmud0639/FCM-push-notification-admin-panel)
 
 ---
 
